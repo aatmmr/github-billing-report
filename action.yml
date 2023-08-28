@@ -1,6 +1,6 @@
-name: 'The name of your action here'
-description: 'Provide a description here'
-author: 'Your name or organization here'
+name: 'GitHub Billing Report'
+description: 'GitHub Action that creates a billing report for enterprises and organizations'
+author: 'aatmmr'
 
 # Define your inputs here.
 inputs:
