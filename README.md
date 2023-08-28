@@ -109,7 +109,7 @@ So, what are you waiting for? Go ahead and start customizing your action!
    ```
 
 1. Replace the contents of `src/` with your action code
-1. Add tests to `__tests__/` for your source code
+1. Add tests to `tests/` for your source code
 1. Format, test, and build the action
 
    ```bash
