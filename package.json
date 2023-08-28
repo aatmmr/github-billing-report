@@ -1,21 +1,23 @@
 {
-  "name": "typescript-action",
-  "description": "GitHub Actions TypeScript template",
+  "name": "github-billing-report",
+  "description": "GitHub Action that creates a billing report for enterprises and organizations",
   "version": "0.0.0",
-  "author": "",
+  "author": "aatmmr",
   "private": true,
-  "homepage": "https://github.com/actions/typescript-action",
+  "homepage": "https://github.com/aatmmr/github-billing-report",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/actions/typescript-action.git"
+    "url": "git+https://github.com/aatmmr/github-billing-report.git"
   },
   "bugs": {
-    "url": "https://github.com/actions/typescript-action/issues"
+    "url": "https://github.com/aatmmr/github-billing-report/issues"
   },
   "keywords": [
     "actions",
-    "node",
-    "setup"
+    "billing",
+    "report",
+    "enterprise",
+    "cost"
   ],
   "main": "dist/index.js",
   "engines": {
