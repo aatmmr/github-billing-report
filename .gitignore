@@ -101,3 +101,15 @@ __tests__/runner/*
 .idea
 .vscode
 *.code-workspace
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
